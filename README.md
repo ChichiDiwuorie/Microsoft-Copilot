@@ -29,3 +29,22 @@ https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-se
 **Create to-do lists in OneNote:** Staying organized and on top of project tasks can be a daunting challenge, but Microsoft Copilot simplifies the process by generating comprehensive to-do lists in OneNote. Whether you're starting a new project or need to revamp your existing task list, Copilot can help you create a structured and actionable plan. Simply tell Copilot "Create a to-do list for [project name]," and it will leverage its understanding of project management principles to generate a list of relevant tasks, milestones, and deadlines. This saves you the time and effort of brainstorming tasks from scratch and ensures that you haven't overlooked any crucial steps.
 
 **Find information in Edge:** In the vast landscape of the internet, finding relevant information quickly and efficiently can be a daunting task. Microsoft Copilot in Edge acts as your personal research assistant, providing instant answers and summaries to your questions, right within your browser. Whether you need to clarify a concept on the current webpage, research a broader topic, or simply get a quick overview of the content you're reading, Copilot has you covered. Simply activate Copilot in the Edge sidebar and ask your question in natural language. Copilot will leverage its vast knowledge base and advanced language processing capabilities to provide you with accurate and concise responses, saving you the time and effort of scouring multiple sources.
+
+
+## Prompt Engineering in Copilot
+https://support.microsoft.com/en-us/topic/edit-a-copilot-prompt-to-make-it-your-own-4f766981-dd4c-4038-a025-0f88c67fd9db
+
+**101 Formula For Effective Prompts**
+
+<img width="795" height="348" alt="image" src="https://github.com/user-attachments/assets/b9847fcb-2c09-4379-b3a4-d740878c8f40" />
+
+**Prompt refined example**
+
+<img width="777" height="265" alt="image" src="https://github.com/user-attachments/assets/cbdb1251-1f23-4ada-9e7f-10d5abfbe836" />
+
+*Copilot Prompt Gallery*
+<img width="1246" height="633" alt="image" src="https://github.com/user-attachments/assets/20d4e665-8459-4ae1-bd31-eeb2188b18e9" />
+
+
+
+
