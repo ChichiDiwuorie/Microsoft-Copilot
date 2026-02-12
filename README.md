@@ -8,7 +8,7 @@ https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-se
 <img width="351" height="191" alt="image" src="https://github.com/user-attachments/assets/67fd588d-2f58-43c9-a748-4b94516bfe7f" />
 
 
-## **Top 10 Copilot tips for everyday tasks**
+## Top 10 Copilot tips for everyday tasks
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_4y3cw34y3cw34y3c" src="https://github.com/user-attachments/assets/b40560f6-64ca-4b97-b696-1781139faf46" />
 
@@ -26,8 +26,13 @@ https://support.microsoft.com/en-us/topic/edit-a-copilot-prompt-to-make-it-your-
 *Copilot Prompt Gallery*
 <img width="1246" height="633" alt="image" src="https://github.com/user-attachments/assets/20d4e665-8459-4ae1-bd31-eeb2188b18e9" />
 
-**Copilot Toolkit For Marketing**
+## Copilot Toolkit For Marketing
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_142l8q142l8q142l" src="https://github.com/user-attachments/assets/04cfd65f-bc5e-4344-b22d-6fbe974754e7" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_142l8q142l8q142l" src="https://github.com/user-attachments/assets/f3b9af84-19b1-446c-babb-1a2dcb6b4fe3" />
+
+## Copilot's impact on customer success
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_m5m0fcm5m0fcm5m0" src="https://github.com/user-attachments/assets/1e7993f9-8452-416e-a011-09890f0282ee" />
+
 
 
