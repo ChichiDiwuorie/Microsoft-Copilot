@@ -36,5 +36,5 @@ https://support.microsoft.com/en-us/topic/edit-a-copilot-prompt-to-make-it-your-
 
 ## Legal checklist for Copilot usage
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_ckhph8ckhph8ckhp" src="https://github.com/user-attachments/assets/1699b951-a470-4c75-b16e-05dd2986e930" />
+<img width="1024" height="1536" alt="Copilot_20260214_002546" src="https://github.com/user-attachments/assets/07d2bb85-b4fa-40b6-92c8-3d175a3954d3" />
 
