@@ -32,13 +32,9 @@ https://support.microsoft.com/en-us/topic/edit-a-copilot-prompt-to-make-it-your-
 
 ## Copilot's impact on customer success
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_m5m0fcm5m0fcm5m0" src="https://github.com/user-attachments/assets/1e7993f9-8452-416e-a011-09890f0282ee" />
+
 ## Legal checklist for Copilot usage
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_ckhph8ckhph8ckhp" src="https://github.com/user-attachments/assets/1699b951-a470-4c75-b16e-05dd2986e930" />
-
-
-
-<img width="1024" height="1024" alt="Gemini_Generated_Image_m5m0fcm5m0fcm5m0" src="https://github.com/user-attachments/assets/1e7993f9-8452-416e-a011-09890f0282ee" />
-
-
 
